@@ -1,2 +1,2 @@
 # QuiseApp
-This Application is used in Quise Examination
+This Application is used in Quise Examination Papper
